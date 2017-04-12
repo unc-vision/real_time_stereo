@@ -1,0 +1,6 @@
+bin
+build
+*.swp
+
+# TODO (True): I'm currently just symlink-ing cudaArray
+src/cudaArray
